@@ -1,5 +1,5 @@
 # flutter-startup-name-generator
-This is a flutter projectmexercies from Google Codelabs that generates infinite startup 2 words name
+This is a flutter projectmexercies from Google Codelabs that generates infinite list of startup 2-words names
 
 ## Getting Started
 
